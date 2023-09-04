@@ -12,7 +12,7 @@ export const WaterOption = ({
   percentage,
 }: WaterOptionProps) => {
 
-  console.log(percentage, percentageWater);
+  
   
   return (
     <div
